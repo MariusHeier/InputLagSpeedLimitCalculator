@@ -26,7 +26,7 @@ The simulator measures your network's ping and inputs this data into a gaming sc
 This tool helps determine if efforts to reduce input lag (like upgrading hardware or optimizing settings) will meaningfully improve your competitive gaming performance.
 
 ## Additional Resources
-- **Project video:** Watch our tutorial on YouTube [here](https://www.youtube.com/watch?v=kijU75PGMMk).
+- **Project video:** Video covering this project is on YouTube [here](https://www.youtube.com/watch?v=kijU75PGMMk).
 - **Source Code:** For those interested in the technical aspects, the source code is available in this repository.
 
 ## Disclaimer
